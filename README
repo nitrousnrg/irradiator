@@ -1,0 +1,7 @@
+Dependencias: qmake y qt4
+aptitude install libqt4-dev qmake
+
+Compila con un simple "make", aunque recomiendo qt creator.
+aptitude install qtcreator
+
+Licenciado bajo licencia GNU, este es un proyecto de la Universidad Tecnológica Nacional, Facultad Regional Bahía Blanca.
